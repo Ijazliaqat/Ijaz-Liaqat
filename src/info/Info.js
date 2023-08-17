@@ -70,68 +70,50 @@ export const info = {
   bio: "Hello! I'm Ijaz. I'm a React Developer at Orcalo Holding. Experienced MERN stack developer with a passion for building modern and scalable web applications. Proficient in MongoDB, Express, React, and Node.js. Strong understanding of front-end technologies such as HTML, CSS, and JavaScript. Adept at implementing responsive design and delivering a seamless user experience. Committed to delivering high-quality code and finding creative solutions to complex problems.",
   skills: {
     proficientWith: [
-      "javascript",
-      "react",
-      "git",
-      "github",
-      "bootstrap",
-      "html5",
-      "css3",
-      "figma",
+      "TypeScript",
+      "React",
+      "MUI",
+      "Tailwind",
+      "Git",
+      "Github",
+      "Bootstrap",
+      "HTML5",
+      "CSS3",
+      "Figma",
     ],
-    exposedTo: ["nodejs", "python", "adobe illustrator"],
+    exposedTo: ["node js", "express js", "mongodb"],
   },
-  hobbies: [
-    {
-      label: "reading",
-      emoji: "📖",
-    },
-    {
-      label: "theater",
-      emoji: "🎭",
-    },
-    {
-      label: "movies",
-      emoji: "🎥",
-    },
-    {
-      label: "cooking",
-      emoji: "🌶",
-    },
-    // Same as above, change the emojis to match / relate to your hobbies or interests.
-    // You can also remove the emojis if you'd like, I just think they look cute :P
-  ],
   portfolio: [
     // This is where your portfolio projects will be detailed
-    {
-      title: "Project 1",
-      live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-      source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
-      image: mock1,
-    },
-    {
-      title: "Project 2",
-      live: "https://paytonpierce.dev",
-      source: "https://github.com/paytonjewell",
-      image: mock2,
-    },
-    {
-      title: "Project 3",
-      live: "https://paytonpierce.dev",
-      source: "https://github.com/paytonjewell",
-      image: mock3,
-    },
-    {
-      title: "Project 4",
-      live: "https://paytonpierce.dev",
-      source: "https://github.com/paytonjewell",
-      image: mock4,
-    },
-    {
-      title: "Project 5",
-      live: "https://paytonpierce.dev",
-      source: "https://github.com/paytonjewell",
-      image: mock5,
-    },
+    // {
+    //   title: "Project 1",
+    //   live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+    //   source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
+    //   image: mock1,
+    // },
+    // {
+    //   title: "Project 2",
+    //   live: "https://paytonpierce.dev",
+    //   source: "https://github.com/paytonjewell",
+    //   image: mock2,
+    // },
+    // {
+    //   title: "Project 3",
+    //   live: "https://paytonpierce.dev",
+    //   source: "https://github.com/paytonjewell",
+    //   image: mock3,
+    // },
+    // {
+    //   title: "Project 4",
+    //   live: "https://paytonpierce.dev",
+    //   source: "https://github.com/paytonjewell",
+    //   image: mock4,
+    // },
+    // {
+    //   title: "Project 5",
+    //   live: "https://paytonpierce.dev",
+    //   source: "https://github.com/paytonjewell",
+    //   image: mock5,
+    // },
   ],
 };
